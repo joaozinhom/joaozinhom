@@ -11,7 +11,7 @@ I'm Joaozinho, a junior cypherpunk, fast reader and crazy nerd, lover of cryptog
 
 ## ₿ You can send me some sats by:
 
-**🌩️ Lightning Address:** Holand54dcac5c@zbd.gg
+**🌩️ Lightning Address:** joaozinho@zbd.gg
 
 ---
 
