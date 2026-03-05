@@ -17,7 +17,7 @@ I'm Joaozinho, a junior cypherpunk, fast reader and crazy nerd, lover of cryptog
 
 ## 🛠️ Working with
 
-**Bitcoin** • **Python** • **Rust** • **Nix**
+**Bitcoin** • **Python** • **Rust** • **Nix** • **C**
 
 ---
 
