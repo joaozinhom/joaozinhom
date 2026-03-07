@@ -1,5 +1,6 @@
 # Hello there 👋
-I'm Joaozinho, a junior cypherpunk, fast reader and crazy nerd, lover of cryptography and passionate for Linux.
+I'm Joaozinho, a junior cypherpunk, fast reader and crazy nerd, 
+lover of cryptography and passionate for Linuxk, Grantee from open sats, and cadet at 42.
 
 ## 📫 Contact
 
